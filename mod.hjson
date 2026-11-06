@@ -1,17 +1,18 @@
 // file name very used in logic like template-block.
-name: "template"
+name: "lpr"
 
-displayName: "Mod Template"
-repo: "Fat-Bird-Owner/Mindustry-mod-template-hjson"
-subtitle: ""
-author: ""
+displayName: "Launch Pad Redirector"
+repo: "Fat-Bird-Owner/Launch-Pad-Redirector"
+subtitle: "[accent[]]Powered by a single dagger[[]]"
+author: "Fat Bird's Owner"
 
-description: ""
+description: "
+Redirects launch pads automatically.
+Supports modded planets as well.
+"
 
 iosCompatible: true
 version: "v1"
-minGameVersion: "154.3"
+minGameVersion: "160.7"
 dependencies: []
 hidden: false
-
-contentOrder:[]
